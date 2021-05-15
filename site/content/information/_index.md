@@ -1,5 +1,5 @@
 ---
-title: Our Coffee
+title: Informationen
 type: information
 heading: What we offer
 description: >-

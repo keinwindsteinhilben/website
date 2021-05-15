@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Gegenwind Steinhilben"
 subtitle: 
 image: /img/home_title.png
 blurb:
