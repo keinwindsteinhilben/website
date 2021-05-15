@@ -1,5 +1,5 @@
 ---
-title: "Values"
+title: "Visualisierungen"
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"
