@@ -1,5 +1,6 @@
 ---
 title: "Visualisierungen"
+type: visualize
 image: /img/about-jumbotron.jpg
 values:
   - heading: "Shade-grown coffee"

@@ -1,6 +1,6 @@
 ---
 title: Our Coffee
-type: informationen
+type: information
 heading: What we offer
 description: >-
   Kaldi is the ultimate spot for coffee lovers who want to learn about their
