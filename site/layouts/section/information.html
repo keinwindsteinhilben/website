@@ -1,12 +1,15 @@
 {{ define "main" }}
-
+<div class="mw6 center">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/DijXCuUk5KI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+  </div><br>
+  
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
 
 {{ partial "4-up" .Params.intro }}
 
 
 {{ with .Params.main }}
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DijXCuUk5KI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 <div class="mw7 center">
   <div class="mw6 ph3 mb3">
