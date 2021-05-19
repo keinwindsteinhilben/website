@@ -32,6 +32,39 @@ intro:
         Stuttgarter Fernsehturm und fast 8x so
         hoch wie der Augstbergturm.
       heading: Landschaftszerstörung – ein Höhenvergleich
+    - text: >-
+        Die in Baden-Württemberg geltenden Mindestabstände sind willkürlich
+        festgelegt und
+
+        schützen nicht ausreichend vor den Auswirkungen von Lärm und Infraschall.
+
+        Windkraftanlagen, die einen zu geringen Sicherheitsabstand zu Wohngebäuden
+
+        haben, können zu schweren und chronischen Erkrankungen führen.
+
+        Infraschall (niederfrequenter nicht hörbarer Schall) durchdringt jede Art von
+
+        Schallschutzmaßnahmen an Gebäuden und wirkt direkt auf das Herz-Kreislauf-
+
+        System. Es gibt Untersuchungen von Instituten, die das Auftreten von Tinnitus,
+
+        Gleichgewichtsstörungen, schweren Schlafstörungen, Herzrhythmusstörungen,
+
+        Bluthochdruck, Übelkeit und Konzentrationsstörungen bestätigen.
+
+        Der Infraschall, der von den riesigen Rotorblättern erzeugt wird, ist um ein vielfaches
+
+        stärker, als der Infraschall welcher z. B. vom Verkehr oder einer Öl-Feuerungsanlage
+
+        erzeugt wird.
+
+        Der Infraschall wirkt 24 Stunden und 7 Tage die Woche auf unseren Körper. Gegen
+
+        Infraschall gibt es keine Schutzmöglichkeiten, außer sehr großen Abstand. Im
+
+        Baugenehmigungsverfahren werden keine Grenzwerte zu Infraschall berücksichtigt.
+      heading: Gesundheitsgefährdung durch Lärm und Infraschall
+      image: img/kopfschmerzen.png
   heading: " "
   description: " "
 values:
