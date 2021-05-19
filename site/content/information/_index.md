@@ -3,51 +3,43 @@ title: Windpark? Nein Danke!
 type: information
 image: /img/home_title.png
 heading: Wind
-description: >-
+description: " "
 intro:
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
-  heading: What we offer
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    - image: img/map.jpg
+      text: |-
+        Grün umrandet, das ausgewiesene
+        Vorranggebiet mit ca. 800 ha für einen
+        Windpark im Gebiet Sommerau
+        Trochtelfingen
+        Es sind Windkraftanlagen im „zweistelligen
+        Bereich“ geplant mit einer Höhe von jeweils
+        250 m.
+        Es bestehen folgende Abstände vom
+        Windparkgebiet zu den Teilgemeinden:
+        zu Steinhilben: ca. 1.300 m
+        zu Trochtelfingen ca. 1.400 m
+        zu Mägerkingen ca. 1.600 m
+        zu Mariaberg ca. 1.000 m
+        zu Harthausen ca. 1.200 m
+        zu Wilsingen ca. 2.700 m
+      heading: WINDPARK Trochtelfingen? NEIN DANKE!
+    - image: img/groessen.png
+      text: |-
+        Mit einer Gesamthöhe von 250 Meter sind
+        die geplanten Windräder im Windpark
+        Trochtelfingen ca. 13 Meter höher als der
+        Stuttgarter Fernsehturm und fast 8x so
+        hoch wie der Augstbergturm.
+      heading: Landschaftszerstörung – ein Höhenvergleich
+  heading: " "
+  description: " "
 values:
-  - heading: "Shade-grown coffee"
+  - heading: Shade-grown coffee
     text: >
-      Coffee is a small tree or shrub that grows in the forest
-      understory in its wild form, and traditionally was grown
-      commercially under other trees that provided shade. The
-      forest-like structure of shade coffee farms provides habitat for
-      a great number of migratory and resident species.
-    imageUrl: "/img/about-shade-grown.jpg"
+      Coffee is a small tree or shrub that grows in the forest understory in its
+      wild form, and traditionally was grown commercially under other trees that
+      provided shade. The forest-like structure of shade coffee farms provides
+      habitat for a great number of migratory and resident species.
+    imageUrl: /img/about-shade-grown.jpg
 ---
-
-
