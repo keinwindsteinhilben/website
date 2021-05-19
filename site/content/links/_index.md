@@ -12,3 +12,6 @@ Bundesorganisation für vernünftige Energiepolitik
 
 • www.rettet-die-alb.de
 Bündnis Alb gegen Windkraft
+
+• https://www.youtube.com/watch?v=_jBnhq8qnc4
+„Das Klimaproblem und die deutsche Energiewende“
