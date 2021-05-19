@@ -4,9 +4,9 @@
 	<div class="center mw6 pv3">
 
 		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
-
-		{{ .Content }}
-
+		<h3>Angaben gemäß § 5 TMG:</h3><br>
+		Bürgerinitiative<br>
+		Gegenwind Steinhilben
 		<div class="flex-ns mb3">
 	        	{{ range .Params.contact_entries }}
 				<div>
@@ -15,7 +15,10 @@
 				</div>
 			{{ end }}
 		</div>
-
+		<h3>Kontakt</h3><br>
+		info@gegenwind-steinhilben.de
+		
+		{{ .Content }}
 	</div>
 </div>
 
