@@ -110,7 +110,7 @@ intro:
 
         (Quelle:  Nachrichtenagentur: Redaktion dts vom 20.01.2019
 
-        Laut der Studie „Local Cost for Global Benefit: The Case of Wind Turbines“ des RWI-Leibniz Institus für Wirtschaftsforschung verlieren ländliche Einfamilienhäuser im Umkreis von Windenergieanlagen zum Teil deutlich an Wert. "In absoluten Zahlen kann das einen Vermögensverlust für Hausbesitzer von mehreren zehntausend Euro bedeuten", sagte RWI-Studienleiter Manuel Frondel. Am stärksten betroffen sind alte Häuser. Hier kann der Verlust über 20 % betragen.
+        Laut der Studie „Local Cost for Global Benefit: The Case of Wind Turbines“ des RWI-Leibniz Instituts für Wirtschaftsforschung verlieren ländliche Einfamilienhäuser im Umkreis von Windenergieanlagen zum Teil deutlich an Wert. "In absoluten Zahlen kann das einen Vermögensverlust für Hausbesitzer von mehreren zehntausend Euro bedeuten", sagte RWI-Studienleiter Manuel Frondel. Am stärksten betroffen sind alte Häuser. Hier kann der Verlust über 20 % betragen.
 
         Als Grundlage in dieser Studie haben Wissenschaftler fast drei Millionen Verkaufsangebote des Onlineportals ImmobilienScout24 zwischen den Jahren 2007 und 2015 analysiert und mit den Geodaten von rund 27.000 Windenergieanlagen abgeglichen.)
       image: img/wertverlust.jpg
