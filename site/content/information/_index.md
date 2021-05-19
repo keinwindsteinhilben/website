@@ -1,9 +1,9 @@
 ---
-title: Informationen
+title: Windpark? Nein Danke!
 type: information
+image: /img/home_title.png
 heading: Wind
 description: >-
-  {{<youtube DijXCuUk5KI>}}
 intro:
   blurbs:
     - image: /img/illustrations-coffee.svg
