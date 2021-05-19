@@ -101,10 +101,18 @@ intro:
         Sobald die Stromtrasse von Nord nach Süd fertiggestellt ist, macht es keinen Sinn, die sowieso unrentablen Windkraftanlagen im Süden weiter zu betreiben.
       image: img/energiewende.jpg
     - heading: Wertverlust bei Immobilien
-      text: Immobilienbesitzer in der Umgebung von Windkraftanlagen müssen mit
+      text: >-
+        Immobilienbesitzer in der Umgebung von Windkraftanlagen müssen mit
         erheblichen Verlusten ihrer Immobilien und Grundstücke rechnen. Je nach
         Abstand vom Windpark und Alter der Immobilie kann der Wertverlust über
         20 % betragen.
+
+
+        (Quelle:  Nachrichtenagentur: Redaktion dts vom 20.01.2019
+
+        Laut der Studie „Local Cost for Global Benefit: The Case of Wind Turbines“ des RWI-Leibniz Institus für Wirtschaftsforschung verlieren ländliche Einfamilienhäuser im Umkreis von Windenergieanlagen zum Teil deutlich an Wert. "In absoluten Zahlen kann das einen Vermögensverlust für Hausbesitzer von mehreren zehntausend Euro bedeuten", sagte RWI-Studienleiter Manuel Frondel. Am stärksten betroffen sind allte Häuser. Hier kann der Verlust 
+
+        In dieser Studie haben die Wissenschaftler fast drei Millionen Verkaufsangebote des Onlineportals ImmobilienScout24 zwischen den Jahren 2007 und 2015 analysiert und mit den Geodaten von rund 27.000 Windenergieanlagen abgeglichen.)
       image: img/wertverlust.jpg
   heading: " "
   description: " "
