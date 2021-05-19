@@ -65,6 +65,16 @@ intro:
         Baugenehmigungsverfahren werden keine Grenzwerte zu Infraschall berücksichtigt.
       heading: Gesundheitsgefährdung durch Lärm und Infraschall
       image: img/kopfschmerzen.png
+    - text: >-
+        Windkraftanlagen beeinträchtigen nachhaltig das Landschaftsbild.
+        Teilweise werden Waldflächen abgeholzt und große Ackerflächen in
+        Betonwüsten verwandelt. Der Lebensraum von Mensch und Tier wird
+        zerstört. Die Natur wird zum Industriestandort. 
+
+
+        Es gibt bisher keine einheiltichen Standards für den Rückbau von Windanlagen.
+      heading: Großflächige Landschaftszerstörung
+      image: img/landschaftszerstoerung.png
   heading: " "
   description: " "
 values:
