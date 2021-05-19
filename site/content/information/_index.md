@@ -75,6 +75,16 @@ intro:
         Es gibt bisher keine einheiltichen Standards für den Rückbau von Windanlagen.
       heading: Großflächige Landschaftszerstörung
       image: img/landschaftszerstoerung.png
+    - heading: Schlechte Windhöffigkeit*
+      text: >
+        Baden-Württemberg zählt zu den windärmsten Bundesländern. Bestehende
+        Windkraftanlagen haben hier nachweislich einen mangelhaften
+        Auslastungsgrad, der für einen wirtschaftlichen Betrieb nicht ausreicht
+        und nur durch Subventionen rentabel wird. 
+
+
+        (* Windhöffigkeit = durchschnittliches Windaufkommen an einem bestimmten Standort als Maßstab für die Gewinnung von Windenergie)
+      image: img/windhoeffigkeit.jpg
   heading: " "
   description: " "
 values:
