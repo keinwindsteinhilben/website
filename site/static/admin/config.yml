@@ -53,7 +53,7 @@ collections: # A list of collections the CMS should be able to edit
                 widget: text
       - file: "site/content/info/_index.md"
         label: "Informationen"
-        name: "info"
+        name: "links"
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
