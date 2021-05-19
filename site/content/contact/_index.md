@@ -5,11 +5,11 @@ contact_entries:
   - heading: Kontakt
     text: "info@gegenwind-steinhilben.de"
   - heading: Disclaimer
-    text: "Es werden keinerlei Daten gesammelt und wir übernehmen keine Haftung für Inhalte oder Links übernehmen."
+    text: "Es werden keinerlei Daten gesammelt und wir übernehmen keine Haftung für Inhalte oder Links"
 ---
 Angaben gemäß § 5 TMG:
-Gegenwind 	Steinhilben
+Gegenwind Steinhilben
 Bürgerinitiative
 Fliederstraße 10
-72818  Steinhilben
+72818 Steinhilben
 
