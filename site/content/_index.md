@@ -4,7 +4,6 @@ subtitle:
 image: /img/home_title.png
 blurb:
     heading: Bürgeriniative Gegenwind Steinhilben
-    text: " "
 intro:
     heading: "Verhinderung des Windpark in Trochtelfingen!"
     text: "Wir fordern Mitsprache für die Bürgerinnen und
