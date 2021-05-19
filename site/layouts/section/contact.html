@@ -4,20 +4,24 @@
 	<div class="center mw6 pv3">
 
 		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
-		<h3>Angaben gemäß § 5 TMG:</h3><br>
+		<h4 class="f4 b lh-title mb2 primary">Angaben gemäß § 5 TMG:</h4>
 		Bürgerinitiative<br>
 		Gegenwind Steinhilben
 		<div class="flex-ns mb3">
-	        	{{ range .Params.contact_entries }}
-				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
-					<p>{{ .text }}</p>
-				</div>
-			{{ end }}
+	        <div>
+				<p>Pia Hekrewitz<br>
+					Fliederstraße 10<br>
+					72818 Steinhilben</p>
+			</div>
+			<div>
+				<p>Diana Baumeister<br>
+					Albstr. 6<br>
+					72818 Steinhiben</p>
+			</div>
 		</div>
-		<h3>Kontakt</h3><br>
+		<h4 class="f4 b lh-title mb2 primary">Kontakt</h4>
 		info@gegenwind-steinhilben.de
-		
+		<br><br><br>
 		{{ .Content }}
 	</div>
 </div>
