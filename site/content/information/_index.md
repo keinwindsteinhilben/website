@@ -85,6 +85,21 @@ intro:
 
         (* Windhöffigkeit = durchschnittliches Windaufkommen an einem bestimmten Standort als Maßstab für die Gewinnung von Windenergie)
       image: img/windhoeffigkeit.jpg
+    - heading: Energiewende
+      text: >-
+        Mit Wind und Sonne ist es nicht möglich konstante Strommengen zu
+        produzieren. Ist zu viel Strom im Netz, bezahlen wir an der Strom-Börse
+        dafür, dass der überschüssige Strom von unseren Nachbarländern
+        abgenommen wird. Finanziert wird dies wiederum über die Stromrechnung. 
+
+        Wird zu wenig Strom erzeugt, muss zum Ausgleich trotzdem die Leistung eines konventionellen Kraftwerkes vorgehalten oder Strom aus dem Ausland zugekauft werden. 
+
+
+        Deshalb wird ohne angemessene Speicherlösungen (die es noch nicht gibt) Windkraft bei uns nie rentabel und umweltschonend produziert werden können. 
+
+
+        Sobald die Stromtrasse von Nord nach Süd fertiggestellt ist, macht es keinen Sinn, die sowieso unrentablen Windkraftanlagen im Süden weiter zu betreiben.
+      image: img/energiewende.jpg
   heading: " "
   description: " "
 values:
