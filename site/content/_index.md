@@ -15,7 +15,7 @@ products:
     - image: img/home_blume.jpg
       text: "Wir wollen unsere schöne Heimat mit ihrem
       einzigartigen Charakter bewahren"
-    - image: /img/home_turm.png
+    - image: /img/home_turm.jpg
       text: "Wir setzen uns ein zum Schutz von Natur und
       Mensch in der Gemeinde Trochtelfingen bzw. für
       die Schwäbische Alb insgesamt"
