@@ -7,10 +7,15 @@ image: img/logo.png
 Die Gründungsmitglieder sind
 
 Baumeister, Diana
+
 Baumeister, Maria
+
 Dr. Herkewitz, Martin
+
 Herkewitz, Pia
+
 Dr. Rudolph, Stephan
+
 
 Weitere Mitglieder sind willkommen und können jederzeit in die Bürgerinitiative aufgenommen werden.
 ___________
