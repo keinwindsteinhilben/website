@@ -119,7 +119,7 @@ intro:
 
 
         Sobald die Stromtrasse von Nord nach Süd fertiggestellt ist, macht es keinen Sinn, die sowieso unrentablen Windkraftanlagen im Süden weiter zu betreiben.
-      image: img/energiewendeschild.png
+      image: img/energiewende2.png
     - heading: Wertverlust bei Immobilien
       text: >-
         Immobilienbesitzer in der Umgebung von Windkraftanlagen müssen mit
