@@ -14,7 +14,7 @@ intro:
 
         Windpark im Gebiet Sommerau
 
-        Trochtelfingen
+        Trochtelfingen.
 
         Es sind Windkraftanlagen im „zweistelligen
 
@@ -49,7 +49,7 @@ intro:
         Mit einer Gesamthöhe von 250 Meter sind
         die geplanten Windräder im Windpark
         Trochtelfingen ca. 13 Meter höher als der
-        Stuttgarter Fernsehturm und fast 8x so
+        Stuttgarter Fernsehturm und mehr als 8 mal so
         hoch wie der Augstbergturm.
       heading: Landschaftszerstörung – ein Höhenvergleich
     - text: >-
