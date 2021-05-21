@@ -39,7 +39,10 @@ intro:
         zu Wilsingen ca. 2.700 m.
 
 
-        (Anmerkung: Mit der in Bayern geltenden 10H-Abstandsregel (10 x Windradhöhe = 2,5 km) wäre dieser Windpark unzulässig. Für Baden-Württemberg gilt die 10H-Abstandsregel leider nicht.) 
+        (Anmerkung: Mit der in Bayern geltenden 10H-Abstandsregel (10 x Windradhöhe = 2,5 km) wäre dieser Windpark unzulässig. Für Baden-Württemberg gilt die 10H-Abstandsregel leider nicht.)
+
+
+        Folgende Gründe sprechen gegen die Windkraftanlagen:
       heading: WINDPARK Trochtelfingen? NEIN DANKE!
     - image: img/groessen.png
       text: |-
