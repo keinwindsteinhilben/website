@@ -26,17 +26,17 @@ intro:
 
         Windparkgebiet zu den Teilgemeinden:
 
-        zu Steinhilben: ca. 1.300 m
+        zu Steinhilben ca. 1.300 m,
 
-        zu Trochtelfingen ca. 1.400 m
+        zu Trochtelfingen ca. 1.400 m,
 
-        zu Mägerkingen ca. 1.600 m
+        zu Mägerkingen ca. 1.600 m,
 
-        zu Mariaberg ca. 1.000 m
+        zu Mariaberg ca. 1.000 m,
 
-        zu Harthausen ca. 1.200 m
+        zu Harthausen ca. 1.200 m,
 
-        zu Wilsingen ca. 2.700 m
+        zu Wilsingen ca. 2.700 m.
 
 
         (Anmerkung: Mit der in Bayern geltenden 10H-Abstandsregel (10 x Windradhöhe = 2,5 km) wäre dieser Windpark unzulässig. Für Baden-Württemberg gilt die 10H-Abstandsregel leider nicht.) 
