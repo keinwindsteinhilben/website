@@ -92,7 +92,7 @@ intro:
         zerstört. Die Natur wird zum Industriestandort. 
 
 
-        Es gibt bisher keine einheiltichen Standards für den Rückbau von Windkraftanlagen.
+        Es gibt bisher keine einheitlichen Standards für den Rückbau von Windkraftanlagen.
       heading: Großflächige Landschaftszerstörung
       image: img/landschaftszerstoerung.png
     - heading: Schlechte Windhöffigkeit*
