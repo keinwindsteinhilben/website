@@ -6,53 +6,15 @@ heading: Wind
 description: " "
 intro:
   blurbs:
-    - image: img/map.jpg
-      text: >
-        Grün umrandet, das ausgewiesene
-
-        Vorranggebiet mit ca. 800 ha für einen
-
-        Windpark im Gebiet Sommerau
-
-        Trochtelfingen.
-
-        Es sind Windkraftanlagen im „zweistelligen
-
-        Bereich“ geplant mit einer Höhe von jeweils
-
-        250 m.
-
-        Es bestehen folgende Abstände vom
-
-        Windparkgebiet zu den Teilgemeinden:
-
-        zu Steinhilben ca. 1.300 m,
-
-        zu Trochtelfingen ca. 1.400 m,
-
-        zu Mägerkingen ca. 1.600 m,
-
-        zu Mariaberg ca. 1.000 m,
-
-        zu Harthausen ca. 1.200 m,
-
-        zu Wilsingen ca. 2.700 m.
-
-
-        (Anmerkung: Mit der in Bayern geltenden 10H-Abstandsregel (10 x Windradhöhe = 2,5 km) wäre dieser Windpark unzulässig. Für Baden-Württemberg gilt die 10H-Abstandsregel leider nicht.)
-
-
-        Folgende Gründe sprechen gegen die Windkraftanlagen:
-      heading: WINDPARK Trochtelfingen? NEIN DANKE!
     - image: img/groessen.png
-      text: |-
+      body: |-
         Mit einer Gesamthöhe von 250 Meter sind
         die geplanten Windräder im Windpark
-        Trochtelfingen ca. 13 Meter höher als der
+        Trochtelfingen ca. **13** Meter höher als der
         Stuttgarter Fernsehturm und mehr als 8 mal so
         hoch wie der Augstbergturm.
       heading: Landschaftszerstörung – ein Höhenvergleich
-    - text: >-
+    - body: >-
         Die in Baden-Württemberg geltenden Mindestabstände sind willkürlich
         festgelegt und
 
@@ -85,7 +47,7 @@ intro:
         Baugenehmigungsverfahren werden keine Grenzwerte zu Infraschall berücksichtigt.
       heading: Gesundheitsgefährdung durch Lärm und Infraschall
       image: img/kopfschmerzen.png
-    - text: >-
+    - body: >-
         Windkraftanlagen beeinträchtigen nachhaltig das Landschaftsbild.
         Teilweise werden Waldflächen abgeholzt und große Ackerflächen in
         Betonwüsten verwandelt. Der Lebensraum von Mensch und Tier wird
@@ -96,7 +58,7 @@ intro:
       heading: Großflächige Landschaftszerstörung
       image: img/landschaftszerstoerung.png
     - heading: Schlechte Windhöffigkeit*
-      text: >
+      body: >
         Baden-Württemberg zählt zu den windärmsten Bundesländern. Bestehende
         Windkraftanlagen haben hier nachweislich einen mangelhaften
         Auslastungsgrad, der für einen wirtschaftlichen Betrieb nicht ausreicht
@@ -106,7 +68,7 @@ intro:
         (* Windhöffigkeit = durchschnittliches Windaufkommen an einem bestimmten Standort als Maßstab für die Gewinnung von Windenergie)
       image: img/windhoeffigkeit.jpg
     - heading: Energiewende
-      text: >-
+      body: >-
         Mit Wind und Sonne ist es nicht möglich konstante Strommengen zu
         produzieren. Ist zu viel Strom im Netz, bezahlen wir an der Strom-Börse
         dafür, dass der überschüssige Strom von unseren Nachbarländern
@@ -121,7 +83,7 @@ intro:
         Sobald die Stromtrasse von Nord nach Süd fertiggestellt ist, macht es keinen Sinn, die sowieso unrentablen Windkraftanlagen im Süden weiter zu betreiben.
       image: img/energiewende2.png
     - heading: Wertverlust bei Immobilien
-      text: >-
+      body: >-
         Immobilienbesitzer in der Umgebung von Windkraftanlagen müssen mit
         erheblichen Verlusten ihrer Immobilien und Grundstücke rechnen. Je nach
         Abstand vom Windpark und Alter der Immobilie kann der Wertverlust über
@@ -138,7 +100,7 @@ intro:
   description: " "
 values:
   - heading: Shade-grown coffee
-    text: >
+    body: >
       Coffee is a small tree or shrub that grows in the forest understory in its
       wild form, and traditionally was grown commercially under other trees that
       provided shade. The forest-like structure of shade coffee farms provides

@@ -1,7 +1,50 @@
 {{ define "main" }}
 
 {{ partial "jumbotron" (dict "imageUrl" .Params.image "title" .Title) }}
-<div class="mw7 center ph3 pt4">
+<br>
+<div class="mw9 center ph3 pt4">
+<div class="flex-m mhn3-m mb4">
+  <div class="ph3-m w-50-m">
+    <img src="img/map.jpg" alt="" class="db mb2">
+  </div>
+
+  <div class="ph3-m w-50-m">
+    <h3 class="f3 b lh-title mb1">WINDPARK Trochtelfingen? NEIN DANKE!</h3>
+    <p>  Grün umrandet, das ausgewiesene
+
+      Vorranggebiet mit ca. 800 ha für einen
+
+      Windpark im Gebiet Sommerau
+
+      Trochtelfingen.
+
+      Es sind Windkraftanlagen im „zweistelligen
+
+      Bereich“ geplant mit einer Höhe von jeweils
+
+      250 m.<br>
+
+      Es bestehen folgende Abstände vom
+
+      Windparkgebiet zu den Teilgemeinden:
+      <ul type="circle">
+        <li>zu Steinhilben ca. 1.300 m</li>
+        <li>zu Trochtelfingen ca. 1.400 m</li>
+        <li>zu Mägerkingen ca. 1.600 m</li>
+        <li>zu Mariaberg ca. 1.000 m</li>
+        <li>zu Harthausen ca. 1.200 m</li>
+        <li>zu Wilsingen ca. 2.700 m</li>
+    </ul><br>
+      (Anmerkung: Mit der in Bayern geltenden 10H-Abstandsregel (10 x Windradhöhe = 2,5 km) wäre dieser Windpark unzulässig. Für Baden-Württemberg gilt die 10H-Abstandsregel leider nicht.)
+      </p>
+  </div>
+
+</div><br>
+<center>
+  <h3 class="f3 b lh-title mb1">Folgende Gründe sprechen gegen die Windkraftanlagen:</h3></center>
+
+</div>
+<div class="mw8 center ph3 pt4">
 	<h2 class="f2 b lh-title mb2">{{.Params.intro.heading}}</h2>
 	<p class="mb4 mw6">{{.Params.intro.description}}</p>
   {{ range $index, $element := .Params.intro.blurbs }}
