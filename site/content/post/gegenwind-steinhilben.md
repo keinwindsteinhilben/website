@@ -1,7 +1,7 @@
 ---
 title: Gegenwind Steinhilben
 date: 2021-05-17T13:21:46.878Z
-description: Gründung der Bürgerinitative Gegenwind Steinhilben
+description: Gründung der Bürgerinitiative Gegenwind Steinhilben
 image: img/logo.png
 ---
 Die Gründungsmitglieder sind
