@@ -4,9 +4,12 @@ type: visualize
 image: /img/home_title.png
 
 values:
-  - heading: "Diese Seite ist in Arbeit."
-    text: >
-      In Kürze erscheinen hier Bilder mit Ansichten
-      zum Windpark Trochtelfingen.
-    imageUrl: "/img/home_blume.jpg"
+  - imageUrl: "/img/Vis1.jpg"
+  - imageUrl: "/img/Vis2.jpg"
+  - imageUrl: "/img/Vis3.jpg"
+  - imageUrl: "/img/Vis4.jpg"
+  - imageUrl: "/img/Vis5.jpg"
+  - imageUrl: "/img/Vis6.jpg"
+  - imageUrl: "/img/Vis7.jpg"
+  - imageUrl: "/img/Vis8.jpg"
 ---
