@@ -12,4 +12,8 @@ values:
   - imageUrl: "/img/Vis6.jpg"
   - imageUrl: "/img/Vis7.jpg"
   - imageUrl: "/img/Vis8.jpg"
+  - imageUrl: "/img/Vis9.jpg"
+  - imageUrl: "/img/Vis10.jpg"
+  - imageUrl: "/img/Vis11.jpg"
+  - imageUrl: "/img/Vis12.jpg"
 ---
