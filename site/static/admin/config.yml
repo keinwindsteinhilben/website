@@ -57,6 +57,9 @@ collections: # A list of collections the CMS should be able to edit
         fields:
           - {label: Title, name: title, widget: string}
           - {label: Body, name: body, widget: markdown}
+      - file: "site/content/chronologie/_index.md"
+        label: "Chronologie"
+        name: "chronologie"
       - file: "site/content/information/_index.md"
         label: "Windpark"
         name: "information"
